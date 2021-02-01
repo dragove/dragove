@@ -4,3 +4,9 @@
 - :orange_book: Focusing on Java
 - 🌱 Learning basis of computer science
 - 😄 Interested in functional programming
+
+
+### Hello, I'm Darcy 👋
+- :orange_book: Focusing on Python
+- 🌱 Learning basis of computer science
+- 😄 Interested in Nothing
