@@ -7,6 +7,6 @@
 
 
 ### Hello, I'm Darcy 👋
-- :orange_book: Focusing on Python
+- :red_book: Focusing on Python
 - 🌱 Learning basis of computer science
-- 😄 Interested in Nothing
+- 😄 Interested in 🍕🍔🍟🥞🧇🍳
