@@ -6,7 +6,7 @@
 - 😄 Interested in functional programming
 
 
-### Hello, I'm Darcy 👋
-- :red_book: Focusing on Python
+### Hi, I'm Darcy 👋
+- 🌙 Focusing on Python
 - 🌱 Learning basis of computer science
 - 😄 Interested in 🍕🍔🍟🥞🧇🍳
